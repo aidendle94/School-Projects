@@ -1,0 +1,15 @@
+C:\Users\asdnasd\source\repos\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\asdnasd\source\repos\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\asdnasd\source\repos\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.Form1.resources
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.Cache
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\asdnasd\source\repos\Project3\Project3\bin\Debug\Project3.exe.manifest
+C:\Users\asdnasd\source\repos\Project3\Project3\bin\Debug\Project3.application
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.TrustInfo.xml
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.exe.manifest
+C:\Users\asdnasd\source\repos\Project3\Project3\obj\Debug\Project3.application
