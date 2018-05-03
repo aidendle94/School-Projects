@@ -1,0 +1,5 @@
+﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="About.aspx.cs" Inherits="About" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    “Do you know I&#39;ve been sitting here thinking to myself: that if I didn&#39;t believe in life, if I lost faith in the woman I love, lost faith in the order of things, were convinced in fact that everything is a disorderly, damnable, and perhaps devil-ridden chaos, if I were struck by every horror of man&#39;s disillusionment -- still I should want to live. Having once tasted of the cup, I would not turn away from it till I had drained it! At thirty though, I shall be sure to leave the cup even if I&#39;ve not emptied it, and turn away -- where I don&#39;t know. But till I am thirty I know that my youth will triumph over everything -- every disillusionment, every disgust with life. I&#39;ve asked myself many times whether there is in the world any despair that could overcome this frantic thirst for life. And I&#39;ve come to the conclusion that there isn&#39;t, that is until I am thirty.” 
+</asp:Content>
